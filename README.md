@@ -1,1 +1,1 @@
-# Azure-Pipelines---CI-CD-Docker-e-Kubernetes-no-Azure-DevOps
+# Azure Pipelines CI/CD Docker e Kubernetes no Azure DevOps
